@@ -1,5 +1,5 @@
 # python-api-challenge
-Here is my api-challenge. I used data pulled from the weather API on 11/18/2022. 
+Here is my api-challenge under the instructions folder. I used data pulled from the weather API on 11/18/2022. 
 
 
 My code is within the code and data folder.
